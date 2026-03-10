@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "model": "2025 Tucson Hybrid N Line",
+    "make": "Hyundai",
+    "category": "SUV",
+    "image": "../Cars/tucson-hybrid-n-line.png",
+    "price_low": 154.40,
+    "price_high": 168.57,
+    "period": "week",
+    "year": 2025
+  },
+  {
+    "id": 2,
+    "model": "2025 Sonata Preferred-Trend",
+    "make": "Hyundai",
+    "category": "Sedan",
+    "image": "../Cars/sonata-preferred-trend.png",
+    "price_low": 154.40,
+    "price_high": 168.57,
+    "period": "week",
+    "year": 2025
+  },
+  {
+    "id": 3,
+    "model": "2025 Santa Cruz Preferred",
+    "make": "Hyundai",
+    "category": "Truck",
+    "image": "../Cars/santa-cruz-preferred.png",
+    "price_low": 136.08,
+    "price_high": 148.57,
+    "period": "week",
+    "year": 2025
+  },
+  {
+    "id": 4,
+    "model": "2025 Santa Cruz Preferred",
+    "make": "Hyundai",
+    "category": "Truck",
+    "image": "../Cars/santa-cruz-preferred-2.png",
+    "price_low": 136.08,
+    "price_high": 148.57,
+    "period": "week",
+    "year": 2025
+  },
+  {
+    "id": 5,
+    "model": "2025 MazdaCX-5 Kuro",
+    "make": "Mazda",
+    "category": "SUV",
+    "image": "../Cars/mazda-cx5-kuro.png",
+    "price_low": 198.89,
+    "price_high": 217.14,
+    "period": "week",
+    "year": 2025
+  },
+  {
+    "id": 6,
+    "model": "2025 IONIQ 6 Preferred Long Range",
+    "make": "Hyundai",
+    "category": "Sedan",
+    "image": "../Cars/ioniq-6-preferred.png",
+    "price_low": 154.40,
+    "price_high": 168.57,
+    "period": "week",
+    "year": 2025
+  },
+  {
+    "id": 7,
+    "model": "2025 Hyundai Tucson",
+    "make": "Hyundai",
+    "category": "SUV",
+    "image": "../Cars/tucson.png",
+    "price_low": 154.40,
+    "price_high": 168.57,
+    "period": "week",
+    "year": 2025
+  },
+  {
+    "id": 8,
+    "model": "2025 Hyundai Santa Fe",
+    "make": "Hyundai",
+    "category": "SUV",
+    "image": "../Cars/santa-fe.png",
+    "price_low": 154.40,
+    "price_high": 168.57,
+    "period": "week",
+    "year": 2025
+  },
+  {
+    "id": 9,
+    "model": "2025 Hyundai Palisade",
+    "make": "Hyundai",
+    "category": "SUV",
+    "image": "../Cars/palisade.png",
+    "price_low": 272.17,
+    "price_high": 297.14,
+    "period": "week",
+    "year": 2025
+  },
+  {
+    "id": 10,
+    "model": "2025 Hyundai Kona Electric",
+    "make": "Hyundai",
+    "category": "SUV",
+    "image": "../Cars/kona-electric.png",
+    "price_low": 272.17,
+    "price_high": 297.14,
+    "period": "week",
+    "year": 2025
+  },
+  {
+    "id": 11,
+    "model": "2025 Hyundai Kona",
+    "make": "Hyundai",
+    "category": "SUV",
+    "image": "../Cars/kona.png",
+    "price_low": 154.40,
+    "price_high": 168.57,
+    "period": "week",
+    "year": 2025
+  }
+]
