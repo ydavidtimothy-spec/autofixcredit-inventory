@@ -127,7 +127,7 @@
         </div>
         <div class="vehicle-image">
           <img src="${v.image}" alt="${v.model}" loading="lazy"
-               onerror="this.outerHTML='<div class=\\'img-placeholder\\'>${v.make} ${v.model.split(' ').slice(1).join(' ')}</div>'">
+               onerror="this.parentElement.innerHTML='<div class=img-placeholder>${v.model}</div>'">
         </div>
         <div class="vehicle-price">
           <span class="price-range">$${v.price_low.toFixed(2)} to $${v.price_high.toFixed(2)}</span>
